@@ -1,0 +1,227 @@
+*{margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;text-decoration: none;
+    scroll-behavior: smooth;}
+    .خالو{
+        height: 1200px;
+        background-image: url(adadad.jpg);
+
+   background-repeat: no-repeat;
+ z-index: -5;
+ background-attachment: fixed;
+background-blend-mode: overlay;
+   background-size: cover;}
+
+                            
+                          
+   .الغامق{
+   background-color: black;
+height: 860px;}
+.qq{color:aquamarine;
+    position: absolute;
+    left: 320px;
+    font-weight: bold;
+    top: 45px;
+    font-size: 10px;
+}
+.qqq{color:white;
+    position: absolute;
+    left: 265px;
+    top: 60px;
+    font-weight: bold;
+    font-size: 31px;
+}
+.qqq span{color: aquamarine;}
+.qqqq{color:rgb(122, 129, 127);
+    position: absolute;
+    left: 130px;
+    top: 120px;
+    
+    font-size: 9.5px;
+}
+.qqqqq{color:rgb(122, 129, 127);
+    position: absolute;
+    left: 220px;
+    top: 137px;
+    font-size: 9px;
+}.q hr{border: 1px solid rgba(127, 255, 212, 0.801);
+width: 60px; position: absolute;
+left: 330px;
+top: 108px;
+}
+.v{width: 198px;
+position: absolute;
+top: 173px;
+left: 35px;}
+.vv{width: 198px;
+position: absolute;
+top: 388px;
+left: 35px;} 
+.vvv{width: 198px;
+position: absolute;
+top: 608px;
+left: 35px;} 
+.vvvv{width: 198px;
+position: absolute;
+top: 608px;
+left: 255px;}
+.vvvvv{width: 198px;
+position: absolute;
+top: 608px;
+left: 475px;}.vvvvvv{width: 198px;
+position: absolute;
+top: 388px;
+left: 475px;}.vvvvvvv{width: 198px;
+position: absolute;
+top: 173px;
+left: 475px;}.vvvvvvvv{width: 198px;
+position: absolute;
+top: 173px;
+left: 255px;}.vvvvvvvvv{width: 198px;
+position: absolute;
+top: 388px;
+left: 255px;}
+
+.الشفاف{
+    z-index: -50;
+        height: 338px; transition: all 5s ease;
+    background-color: rgba(14, 13, 13, 0.671);}
+    .btton{background-color: rgb(56, 223, 167);
+        width: 150px;
+        padding: 8PX 0PX 1px 3px ;
+        height: 30px;
+        font-size:12px;
+        
+        
+        position: absolute;
+        top: 1083px;
+        border: 1px solid aquamarine; margin: 0px 0px 0px 45px;
+        
+        }.btton a {font-size: 10px;text-decoration: none;
+            padding: 2px 0px 2px 8px ;
+            color: white;
+            font-weight: bolder;
+        }.btton:hover{background-color: black;
+        
+            height: 30;
+            transform: translate(1px,1px );}
+            .i{color: aquamarine;
+            position: absolute;
+        top:932px;
+        font-weight: bold;
+        left: 45px;
+        font-size: 13px;}
+        .ii{color: white;
+        position: absolute;
+        top: 948px;
+        
+        left: 45px;
+        font-size: 31px; font-weight: bold;
+        
+        }
+        .ii span{color: aquamarine;}
+        .الشفاف hr{
+        position: absolute;
+        top: 996px;
+        
+        left: 45px;
+        width: 62px;
+        border: 1.2px solid aquamarine;}
+        .iii{color: rgba(240, 230, 230, 0.712);
+            position: absolute;
+            top: 1011px;
+           font-size: 9.2px;
+        left: 45px;
+        
+        }
+        .iiii{color: rgba(240, 230, 230, 0.712);
+            position: absolute;
+            top: 1027px;
+           font-size: 9.2px;
+        left: 45px;}.iiiii{color: rgba(240, 230, 230, 0.712);
+            position: absolute;
+            top: 1042px;
+           font-size: 9.2px;
+        left: 45px;}
+        .جنب{
+            
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.74);
+            top: 955px;
+            height: 140px;
+            left: 370px;
+            border: 2px solid rgba(88, 85, 85, 0.205);
+            transition: all 2s ease;
+            width: 285px;}
+        
+        .oooo{ font-size: 9px;
+            top: px;
+            z-index: 500;
+        left: 385px;
+            position: absolute;
+            color: rgba(218, 226, 218, 0.801);}
+            .oo{ font-size: 9px;
+                top: 4171px;
+                z-index: 500;
+            left: 385px;
+                position: absolute;
+                color: rgba(218, 226, 218, 0.801);}
+                .ooo{ font-size: 9px;
+                    top: 4187px;
+                    z-index: 500;
+                left: 385px;
+                    position: absolute;
+                    color: rgba(218, 226, 218, 0.801);}
+                    
+                                .jujf{color: rgba(230, 221, 221, 0.829);
+                                font-size: 8.5px;
+                            margin-left: 15px;
+                        margin-top: 20px;}
+                        .جنب:hover{transform: skew(180deg);}
+                        .uhuh{
+                            height: 40px;
+                         border-radius: 50%;
+                         margin-top: 15px;
+                         margin-left: 15px;
+                            width: 40px;
+                            
+                        }
+                        .adam:hover{color: aquamarine;
+                        }
+                        
+                        .adam{color: white;
+                        margin-left: 12px;
+                        transition: all 1s ease;
+                    font-size: 10.5px;
+                    font-weight: bold;
+                margin-top: 20px;}
+                .ada{color: rgb(37, 228, 202);
+                    margin-left: 13px;
+                    transition: all 1s ease;
+                font-size:9px;
+                font-weight: bold;
+            margin-top: 0px;}
+            
+
+                        .kmkmk{display: flex; }
+ 
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+                       
+
+    
